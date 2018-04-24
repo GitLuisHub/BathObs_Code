@@ -1,9 +1,14 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
+# Purpose: Download and convert inaturalist and bath observer project data to a file geodatabase
+# Created by: L. Velasquez
+# Additional edits: 
+# Software: Python 2.7 and ArcGIS 10.x
+# Date: 24.04.2018
+# Process:
 
-This is a temporary script file.
-"""
+# =============================================================================
+# Packages
+# =============================================================================
+ 
 import os
 import pandas as pd
 import arcpy
